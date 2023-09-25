@@ -29,8 +29,6 @@ To get started with these resources, simply click on the links below to access t
 |7|[Build your own X](https://build-your-own-x.vercel.app/) is a website that provides tutorials on how to build different kinds of software, from simple websites to complex applications. It is a great resource for learning about different programming technologies and techniques.|
 |8|[BlackBox](https://www.useblackbox.io/) is a coding assistant that helps developers write better code faster. It provides a variety of features to improve the coding process in many ways.|
 
-I hope this is helpful!
-
 ## How to Contribute 🤝
 If you have discovered additional programming learning resources that you find valuable and would like to contribute to this list, please follow these steps:
 1. Fork this repository.
