@@ -27,6 +27,7 @@ To get started with these resources, simply click on the links below to access t
 |5|[ClassCentral.com](https://www.classcentral.com/) is a website that helps you find and compare online courses from a variety of universities and organizations. It is a great resource for finding courses that are right for you.|
 |6|[DevResourc.es](https://devresourc.es) is a website that provides a directory of resources for software developers. It includes links to tutorials, articles, tools, and other resources.|
 |7|[Build your own X](https://build-your-own-x.vercel.app/) is a website that provides tutorials on how to build different kinds of software, from simple websites to complex applications. It is a great resource for learning about different programming technologies and techniques.|
+|8|[BlackBox](https://www.useblackbox.io/) is a coding assistant that helps developers write better code faster. It provides a variety of features to improve the coding process in many ways.|
 
 I hope this is helpful!
 
