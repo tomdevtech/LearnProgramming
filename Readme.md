@@ -28,6 +28,8 @@ To get started with these resources, simply click on the links below to access t
 |6|[DevResourc.es](https://devresourc.es) is a website that provides a directory of resources for software developers. It includes links to tutorials, articles, tools, and other resources.|
 |7|[Build your own X](https://build-your-own-x.vercel.app/) is a website that provides tutorials on how to build different kinds of software, from simple websites to complex applications. It is a great resource for learning about different programming technologies and techniques.|
 |8|[BlackBox](https://www.useblackbox.io/) is a coding assistant that helps developers write better code faster. It provides a variety of features to improve the coding process in many ways.|
+|9|[Scribe](https://scribehow.com/scribe-ai) is an AI-powered documentation platform that helps businesses create visual step-by-step guides.|
+|10|[Durable](https://durable.co/) is an AI-powered platform that is building websites in an instant, including pictures and so on.|
 
 ## How to Contribute 🤝
 If you have discovered additional programming learning resources that you find valuable and would like to contribute to this list, please follow these steps:
