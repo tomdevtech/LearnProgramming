@@ -32,6 +32,8 @@ To get started with these resources, simply click on the links below to access t
 |10|[Durable](https://durable.co/) is an AI-powered platform that is building websites in an instant, including pictures and so on.|
 |11|[MyUniDays](https://www.myunidays.com/) offers a lot of discounts to students, for many products and services.|
 |12|[OpenAI](https://open.ai) is an AI-powered service that enables you to create awesome pictures, just by writing down some words in the prompt.|
+|13|[EFSET](https://efset.org) helps you, to find out, how experienced you are in English.|
+|14|[Python MOOC](https://programming-23.mooc.fi/all-exercises) is a web based course for learning programming in Python with many exercises.|
 
 ## How to Contribute 🤝
 If you have discovered additional programming learning resources that you find valuable and would like to contribute to this list, please follow these steps:
