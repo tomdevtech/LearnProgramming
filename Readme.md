@@ -3,11 +3,13 @@
 Welcome to the Programming Learning Resources repository! This repository is a curated list of websites and platforms that offer a wealth of information, tutorials, and courses to help you learn programming and enhance your coding skills. Whether you're a beginner or an experienced programmer, you'll find valuable resources to boost your knowledge.
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
-- [List of Resources](#list-of-resources)
-- [How to Contribute](#how-to-contribute)
-- [License](#license)
+- [🚀 Programming Learning Resources 📚](#-programming-learning-resources-)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction 🌟](#introduction-)
+  - [Getting Started 🚦](#getting-started-)
+  - [List of Resources 📦](#list-of-resources-)
+  - [How to Contribute 🤝](#how-to-contribute-)
+  - [License 📄](#license-)
 
 ## Introduction 🌟
 Programming is a fascinating and ever-evolving field, and there are countless resources available to help you on your learning journey. This README provides an organized list of websites and platforms that cover a wide range of programming topics, from beginner to advanced levels. 
@@ -34,6 +36,7 @@ To get started with these resources, simply click on the links below to access t
 |12|[OpenAI](https://open.ai) is an AI-powered service that enables you to create awesome pictures, just by writing down some words in the prompt.|
 |13|[EFSET](https://efset.org) helps you, to find out, how experienced you are in English.|
 |14|[Python MOOC](https://programming-23.mooc.fi/all-exercises) is a web based course for learning programming in Python with many exercises.|
+|15|[Full Stack open](https://fullstackopen.com/en/) provides a course that helps you, to get started with web development.|
 
 ## How to Contribute 🤝
 If you have discovered additional programming learning resources that you find valuable and would like to contribute to this list, please follow these steps:
