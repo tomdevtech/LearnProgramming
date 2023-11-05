@@ -37,6 +37,9 @@ To get started with these resources, simply click on the links below to access t
 |13|[EFSET](https://efset.org) helps you, to find out, how experienced you are in English.|
 |14|[Python MOOC](https://programming-23.mooc.fi/all-exercises) is a web based course for learning programming in Python with many exercises.|
 |15|[Full Stack open](https://fullstackopen.com/en/) provides a course that helps you, to get started with web development.|
+|16|[Coddy Tech](https://coddy.tech/) is website, that provide a lot of courses, to begin to learn programming, with many integrated features.|
+|17|[MyUniDays](https://www.myunidays.com/) offers a wide spreaded collection of discounts for students.|
+|18|[StudentBeans](https://www.studentbeans.com/) offers a wide spreaded collection of discounts for students.|
 
 ## How to Contribute 🤝
 If you have discovered additional programming learning resources that you find valuable and would like to contribute to this list, please follow these steps:
